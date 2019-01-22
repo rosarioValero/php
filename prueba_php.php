@@ -8,4 +8,6 @@
 
 echo "esto es una prueba";
 
+$prueba = "Hola";
+echo $prueba;
 ?>
